@@ -1,5 +1,8 @@
 <h1 align="center">RentUp</h1>
-  ![Home-page](image.png)
+<h3 align="center">Home page</h3>
+
+
+![Home-page](image.png)
 
 
 
