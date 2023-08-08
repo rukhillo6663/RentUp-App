@@ -3,6 +3,7 @@
 
 
 ![Home-page](image.png)
+![features](image-2.png)
 
 
 
