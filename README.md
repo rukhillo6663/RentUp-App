@@ -1,8 +1,6 @@
 <h1 align="center">RentUp</h1>
-<p align="center">
   ![Home-page](image.png)
 
-</p>
 
 
 <h1 align="center">Project Description </h1>
