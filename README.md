@@ -29,7 +29,7 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 ```
 
-└── myrealstate/
+└── rentup-app/
     ├── src/
     │   ├── assets/
     |   ├── components/
@@ -63,11 +63,6 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 <hr>
 
-
-
-
-
-
 <h3 align="center">Home page</h3>
 
 
@@ -99,8 +94,8 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 <hr>
 
 <h2 align="center">Responsive View</h2>
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![responsive2](image-4.png)
+![responsive1](image-5.png)
 <hr>
 
 <h1 align="center">Languages and Tools that used in this project</h1>
