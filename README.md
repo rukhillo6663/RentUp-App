@@ -93,10 +93,6 @@ Overall, my real estate web app is a powerful tool for your business, providing 
 
 <hr>
 
-<h2 align="center">Responsive View</h2>
-![responsive2](image-4.png)
-![responsive1](image-5.png)
-<hr>
 
 <h1 align="center">Languages and Tools that used in this project</h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
